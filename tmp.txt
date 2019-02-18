@@ -40,7 +40,7 @@ There is no real right or wrong in the world, and there is no absolute good or e
 
 https://github.com/JoyOI/OnlineJudge
 
-https://qduoj.com/setting/account
+https://qduoj.com/
 
 https://github.com/QingdaoU/OnlineJudge
 
@@ -51,3 +51,5 @@ https://github.com/QingdaoU/OnlineJudge
 Two people can't live, only one survives, and one of us will leave forever.
 
 二人は生きることができず、一人だけが生き残り、そして私たちの一人は永遠に去るでしょう。
+
+https://github.com/JoyOI/OnlineJudge
